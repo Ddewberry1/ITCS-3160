@@ -7,6 +7,7 @@ a.	This project is about creating a database MySQL and MySQL workbench for a foo
 
 
 2.	 Use Case Diagram
+![Use Case Diagram ](https://user-images.githubusercontent.com/54420849/78728434-4f45e700-7905-11ea-9204-99465a7df4c9.png)
 
 3.	Business Rules
 a.	User will be classified as faculty, staff, or students. Will have separate titles or degrees, will also have information about major and graduation year for students.
