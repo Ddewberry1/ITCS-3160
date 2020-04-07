@@ -19,6 +19,8 @@ f.	Lastly the database will collect information about orders such as nutrient an
 
 4.	EERD fully normalized 
 
+![ITCS 3160 -Project EER Diagram](https://user-images.githubusercontent.com/54420849/78728546-98963680-7905-11ea-81a1-a2269dccf055.png)
+
 5.	Data Dictionary 
 
 ![Screenshot_2020-04-07 Schema Report for database ITCS-3160 Project](https://user-images.githubusercontent.com/54420849/78728469-6b498880-7905-11ea-86ea-44a87a6c5cd4.png)
